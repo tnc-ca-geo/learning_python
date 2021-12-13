@@ -1,4 +1,4 @@
-# Python @ GeoDesign
+# Python @ Conservation Tech
 
 Some resources to support Python proficiency on the Conservation Technology Team
 
